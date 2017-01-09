@@ -27,10 +27,10 @@
     "should": "6",
     "should-http": "*"
   },
-  "homepage": "https://github.com/agarnaas/restful-client.git",
+  "homepage": "https://github.com/node-modules/restful-client",
   "repository": {
     "type": "git",
-    "url": "git://github.com/agarnaas/restful-client.git"
+    "url": "git://github.com/z/restful-client.git"
   },
   "keywords": [
     "restful-client", "restful"
